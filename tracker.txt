@@ -1,7 +1,12 @@
 fruits
-mango
-cherry
 picking
 stash
 stuff
 
+
+
+
+
+tiger
+elephant
+baby dragon
